@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"A_Trouble_as_Usual",
+  "%Name":"Some_Trouble_as_Usual",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":74.3445,
   "exportDir":"",
-  "name":"A_Trouble_as_Usual",
+  "name":"Some_Trouble_as_Usual",
   "parent":{
     "name":"Musics",
     "path":"folders/Sounds/Musics.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":48000,
-  "soundFile":"A_Trouble_as_Usual.mp3",
+  "soundFile":"Some_Trouble_as_Usual.mp3",
   "volume":1.0,
 }
