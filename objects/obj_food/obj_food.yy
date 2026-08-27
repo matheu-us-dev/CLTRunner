@@ -27,20 +27,7 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"batata_spr","filters":[
-        "GMSprite",
-      ],"listItems":[],"multiselect":false,"name":"batata_spr","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_batata","varType":5,},
-    {"$GMObjectProperty":"v2","%Name":"choco_spr","filters":[
-        "GMSprite",
-      ],"listItems":[],"multiselect":false,"name":"choco_spr","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_chocolate","varType":5,},
-    {"$GMObjectProperty":"v2","%Name":"coxinha_spr","filters":[
-        "GMSprite",
-      ],"listItems":[],"multiselect":false,"name":"coxinha_spr","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_coxinha","path":"sprites/spr_coxinha/spr_coxinha.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_coxinha","varType":5,},
-    {"$GMObjectProperty":"v2","%Name":"burger_spr","filters":[
-        "GMSprite",
-      ],"listItems":[],"multiselect":false,"name":"burger_spr","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_hamburg","path":"sprites/spr_hamburg/spr_hamburg.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_hamburg","varType":5,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
