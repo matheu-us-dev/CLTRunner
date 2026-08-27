@@ -34,6 +34,7 @@
     {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
     {"id":{"name":"obj_food","path":"objects/obj_food/obj_food.yy",},},
+    {"id":{"name":"obj_item_generator","path":"objects/obj_item_generator/obj_item_generator.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"scr_globals","path":"scripts/scr_globals/scr_globals.yy",},},

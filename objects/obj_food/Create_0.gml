@@ -3,6 +3,12 @@ randomise()
 v_spd = 1.5;
 num_score = 0;
 
+if(x < room_width / 2){
+	image_xscale = 1;
+}else{
+	image_xscale = -1;
+}
+
 food_type = irandom(3) // 0 = Batata; 1 = Chocolate; 2 = Coxinha; 3 = Hamburguer
 
 if(food_type == 0){
