@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"pickup",
+  "%Name":"sfx_pickup",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":0.14002268,
   "exportDir":"",
-  "name":"pickup",
+  "name":"sfx_pickup",
   "parent":{
     "name":"SFXs",
     "path":"folders/Sounds/SFXs.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"pickup.wav",
+  "soundFile":"sfx_pickup.wav",
   "volume":1.0,
 }
