@@ -10,9 +10,9 @@ if(side_sort == 0){
 }
 
 if(item_sort == 0){
-	instance_create_layer(x_pos, y, "itens", obstacle);
+	instance_create_layer(x_pos, (0 - margin), "itens", obstacle);
 }else{
-	instance_create_layer(x_pos, y, "itens", collectable);
+	instance_create_layer(x_pos, (0 - margin), "itens", collectable);
 }
 
 alarm[0] = instance_create_time;
