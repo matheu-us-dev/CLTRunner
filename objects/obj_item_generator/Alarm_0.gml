@@ -1,12 +1,14 @@
 item_sort = irandom(1);
 
-side_sort = irandom(1);
+side_sort = irandom(2);
 x_pos = 0;
 
 if(side_sort == 0){
 	x_pos = margin;
-}else{
+}else if(side_sort == 1){
 	x_pos = room_width - margin;
+}else{
+	x_pos = room_width / 2;	
 }
 
 if(item_sort == 0){
