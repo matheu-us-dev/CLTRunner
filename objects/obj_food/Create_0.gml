@@ -9,7 +9,7 @@ if(x < room_width / 2){
 	image_xscale = -1;
 }
 
-food_type = irandom(3) // 0 = Batata; 1 = Chocolate; 2 = Coxinha; 3 = Hamburguer
+food_type = irandom(4) // 0 = Batata; 1 = Chocolate; 2 = Coxinha; 3 = Hamburguer;
 
 if(food_type == 0){
 	sprite_index = spr_batata;

@@ -26,19 +26,22 @@ if(is_double == 0){
 	}
 }
 
-item_sort = irandom(1);
+item_sort = irandom(11);
 
-if(item_sort == 0){
+if(item_sort >= 0 and item_sort < 6){
 	instance_create_layer(x_pos, (0 - margin), "itens", obstacle);
-}else{
+}else if (item_sort >= 6 and item_sort < 11){
 	instance_create_layer(x_pos, (0 - margin), "itens", collectable);
+}else{
+	instance_create_layer(x_pos, (0 - margin), "itens", obj_special);
 }
-
 if(x_pos_double != 0){
-	if(item_sort == 0){
+	if(item_sort >= 0 and item_sort < 6){
 		instance_create_layer(x_pos_double, (0 - margin), "itens", obstacle);
-	}else{
+	}else if (item_sort >= 6 and item_sort < 11){
 		instance_create_layer(x_pos_double, (0 - margin), "itens", collectable);
+	}else{
+		instance_create_layer(x_pos, (0 - margin), "itens", obj_special);
 	}
 }
 
