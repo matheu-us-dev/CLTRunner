@@ -1,4 +1,4 @@
-v_spd = 1.5;
+v_spd = global.item_speed;
 
 if(x < room_width / 2){
 	image_xscale = 1;

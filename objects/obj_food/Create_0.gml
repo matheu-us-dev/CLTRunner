@@ -1,6 +1,6 @@
 randomise()
 
-v_spd = 1.5;
+v_spd = global.item_speed;
 num_score = 0;
 
 if(x < room_width / 2){
