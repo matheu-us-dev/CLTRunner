@@ -60,6 +60,7 @@
     {"id":{"name":"spr_page2","path":"sprites/spr_page2/spr_page2.yy",},},
     {"id":{"name":"spr_page3","path":"sprites/spr_page3/spr_page3.yy",},},
     {"id":{"name":"spr_page4","path":"sprites/spr_page4/spr_page4.yy",},},
+    {"id":{"name":"spr_player_up","path":"sprites/spr_player_up/spr_player_up.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_space","path":"sprites/spr_space/spr_space.yy",},},
     {"id":{"name":"spr_special_hamburg","path":"sprites/spr_special_hamburg/spr_special_hamburg.yy",},},

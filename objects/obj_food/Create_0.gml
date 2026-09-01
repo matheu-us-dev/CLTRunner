@@ -5,8 +5,11 @@ num_score = 0;
 
 if(x < room_width / 2){
 	image_xscale = 1;
-}else{
+}else if (x > room_width / 2){
 	image_xscale = -1;
+}else{
+	image_angle = 90;	
+	image_xscale = 1;
 }
 
 food_type = irandom(3) // 0 = Batata; 1 = Chocolate; 2 = Coxinha; 3 = Hamburguer;
