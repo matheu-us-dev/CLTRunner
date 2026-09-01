@@ -9,5 +9,5 @@ instance_create_time = 0;
 
 increase_speed_time = 600;
 
-alarm[0] = room_speed;
+alarm[0] = game_get_speed(gamespeed_fps);
 alarm[1] = increase_speed_time;

@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"Some_Trouble_as_Usual.mp3",
-  "volume":0.0,
+  "volume":1.0,
 }
