@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Some_Trouble_As_Usual",
+  "%Name":"Game_Over",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":74.28573,
+  "duration":15.875021,
   "exportDir":"",
-  "name":"Some_Trouble_As_Usual",
+  "name":"Game_Over",
   "parent":{
     "name":"Musics",
     "path":"folders/Sounds/Musics.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":48000,
-  "soundFile":"Some_Trouble_As_Usual.wav",
+  "soundFile":"Game_Over.wav",
   "volume":1.0,
 }

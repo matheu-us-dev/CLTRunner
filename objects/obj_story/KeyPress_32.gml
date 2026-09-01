@@ -12,4 +12,5 @@ if(current_page == 3){
 
 if(current_page == 4){
 	room_goto(rm_game)
+	audio_stop_sound(You_Will_Get_Outta_Here)
 }
